@@ -1,4 +1,3 @@
-![logo](https://github.com/JamirGDC/JamirGDC/blob/main/6426414-copia.png)
 
 <h1 align="center">Hi 👋, I'm Jamir Gutierrez</h1>
 <h3 align="center">A passionate full stack developer from Spain-Perú</h3>
